@@ -14,7 +14,7 @@ Form Plugin WideServices Qualification Requirement Test
 
 ## Xρησιμοποίησα:
 Moodle API Documentation:Χρησιμοιποίησα τή Φόρμα απο το αρχείο formslib.php
-με settype() και addrule() και addelement()
+με `settype()` και `addrule()` και `addelement()`
 
 Τη συνάρτηση setype() τη χρησιμοποιησα για να ορίστει ο τύπος του στοιχείου που θα δημιουργηθεί. Ο τύπος μπορεί να είναι "form" ή "hidden", ανάλογα με το είδος του στοιχείου που θα δημιουργήσω. Η συνάρτηση setype() πρέπει να καλείται πριν τη δημιουργία του στοιχείου με την συνάρτηση addelement().
 
