@@ -1,6 +1,6 @@
 <?php 
 
-// lang/en/local_yourpluginname.php
+
 
 $string['formPlugin'] = 'formPlugin';
 $string['email'] = 'E-mail';
