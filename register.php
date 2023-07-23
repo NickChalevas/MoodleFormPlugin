@@ -18,7 +18,7 @@ $PAGE->set_context($context);
 $PAGE->set_pagelayout('standard');
 $PAGE->set_heading(format_string($site->fullname));
 
-$form = new local_yourpluginname_register_form();
+$form = new formPlugin_register_form();
 
 if ($data = $form->get_data()) {
     $username = $data->username;
