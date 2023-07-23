@@ -38,7 +38,7 @@ Moodle API Documentation:Χρησιμοιποίησα τή Φόρμα απο τ�
 5. Ανακατεύθυνση του χρήστη στην σελίδα `registration_successful.php` για να ειδοποιηθεί ότι η εγγραφή ήταν επιτυχής.
 
 
-## Χρησιμοίησα:
+## Χρησιμοποίησα:
 Moodle API Documentation: Χρησιμοποιώ το API του Moodle για την αποθήκευση των δεδομένων των χρηστών στη βάση δεδομένων. 
 
 ## `registration_successful.php`
