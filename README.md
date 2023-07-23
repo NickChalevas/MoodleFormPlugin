@@ -12,7 +12,7 @@ Form Plugin WideServices Qualification requirement Test
 
 Αυτό το αρχείο περιέχει τη φόρμα εγγραφής για το plugin. Στη φόρμα περιλαμβάνονται πεδία για email, όνομα, επίθετο, χώρα και κινητό τηλέφωνο. Η φόρμα υποβάλλεται στον εαυτό της για επεξεργασία και αποστολή δεδομένων.
 
-## Χρησιμοίησα:
+## Xρησιμοποίησα:
 Moodle API Documentation:Χρησιμοιποίησα τή Φόρμα απο το αρχείο formslib.php
 με settype() και addrule() και addelement()
 
